@@ -75,6 +75,7 @@ module.exports = {
       },
       backgroundColor:{
         'modal-dark-fade':'rgba(0, 0, 0, 0.4)',
+        'institute':'linear-gradient(to right , #FFFFFF 20% , #A91D54 80%)',
       },
       animation: {
         'spin-slow': 'spin 8s linear infinite',
