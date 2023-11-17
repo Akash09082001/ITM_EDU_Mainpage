@@ -17,5 +17,17 @@
     background: #A91D54;
 }
 
+.program:hover .program-list {
+    display: flex;
+    background: white;
+  }
+  .program:hover .program-list li:hover .program-list-items {
+    display: flex;
+    background: white;
+  }
+  .program:hover .program-list li:hover .program-list-items li:hover .program-list-items-value {
+    display: flex;
+    background: white;
+  }
 
 
